@@ -1,4 +1,4 @@
-# bmi_calculator
+# Todo Application
 
 A new Flutter project.
 
